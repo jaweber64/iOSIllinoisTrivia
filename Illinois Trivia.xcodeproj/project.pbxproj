@@ -14,6 +14,7 @@
 		0FD531481C8C777300C4657A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FD531461C8C777300C4657A /* LaunchScreen.storyboard */; };
 		0FD531531C8C777300C4657A /* Illinois_TriviaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD531521C8C777300C4657A /* Illinois_TriviaTests.swift */; };
 		0FD5315E1C8C777300C4657A /* Illinois_TriviaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD5315D1C8C777300C4657A /* Illinois_TriviaUITests.swift */; };
+		0FD5316C1C8C7AE800C4657A /* ILcounties.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0FD5316B1C8C7AE800C4657A /* ILcounties.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0FD531591C8C777300C4657A /* Illinois TriviaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Illinois TriviaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FD5315D1C8C777300C4657A /* Illinois_TriviaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Illinois_TriviaUITests.swift; sourceTree = "<group>"; };
 		0FD5315F1C8C777300C4657A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FD5316B1C8C7AE800C4657A /* ILcounties.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ILcounties.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0FD5313D1C8C777300C4657A /* AppDelegate.swift */,
 				0FD5313F1C8C777300C4657A /* ViewController.swift */,
 				0FD531411C8C777300C4657A /* Main.storyboard */,
+				0FD5316B1C8C7AE800C4657A /* ILcounties.plist */,
 				0FD531441C8C777300C4657A /* Assets.xcassets */,
 				0FD531461C8C777300C4657A /* LaunchScreen.storyboard */,
 				0FD531491C8C777300C4657A /* Info.plist */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FD531481C8C777300C4657A /* LaunchScreen.storyboard in Resources */,
+				0FD5316C1C8C7AE800C4657A /* ILcounties.plist in Resources */,
 				0FD531451C8C777300C4657A /* Assets.xcassets in Resources */,
 				0FD531431C8C777300C4657A /* Main.storyboard in Resources */,
 			);
